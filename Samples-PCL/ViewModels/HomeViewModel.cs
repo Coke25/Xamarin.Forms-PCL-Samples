@@ -13,6 +13,7 @@ namespace SamplesPCL
 		/// </summary>
 		public const string ClickCountPropertyName = "ClickCount";
 
+		#region properties
 		private int _clickCount;
 
 		/// <summary>
@@ -59,6 +60,27 @@ namespace SamplesPCL
 						}));
 			}
 		}
+		//Placeholder --> Will add Navigation Service later
+		/*private RelayCommand<string> _navCommand = null;
+
+		public RelayCommand<string> NavCommand
+		{
+			get
+			{
+				if (_navCommand == null) {
+					_navCommand = new RelayCommand<string> ((item) => GoToPage (item),(item) => true);
+				}
+				return _navCommand;
+			}
+		}*/
+		#endregion
+		//Placeholder --> Will add Navigation Service later
+		/*
+		public async void GoToPage(string pageTag)
+		{
+			if (pageTag == "TableViewExample") {
+			} 
+		}*/
 	}
 }
 

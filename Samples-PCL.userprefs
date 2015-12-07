@@ -1,1 +1,17 @@
-﻿<Properties StartupItem="iOS/Samples-PCL.iOS.csproj" />
+﻿<Properties StartupItem="iOS/Samples-PCL.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Samples-PCL/Views/HomePage.xaml.cs">
+    <Files>
+      <File FileName="Samples-PCL/Views/HomePage.xaml" Line="8" Column="40" />
+      <File FileName="Samples-PCL/Views/HomePage.xaml.cs" Line="12" Column="1" />
+      <File FileName="Samples-PCL/ViewModels/HomeViewModel.cs" Line="45" Column="13" />
+      <File FileName="Samples-PCL/ViewModels/ViewModelLocator.cs" Line="23" Column="28" />
+      <File FileName="Samples-PCL/Samples-PCL.cs" Line="27" Column="30" />
+      <File FileName="Samples-PCL/Controls/SelectableEntryCell.cs" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

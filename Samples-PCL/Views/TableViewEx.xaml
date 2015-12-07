@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="SamplesPCL.TableViewEx"
+			 xmlns:local="clr-namespace:SamplesPCL;assembly=Samples-PCL">
+	<ContentPage.Content>
+		<TableView HasUnevenRows="true" Intent="Form">
+			<TableRoot>
+				<TableSection Title="Build In Cells">
+					<EntryCell Label="Name:" Placeholder="John Doe" Keyboard="Chat"/>
+					<SwitchCell Text="Is Manager?" On="true"/>	
+				</TableSection>
+				<TableSection Title="Custom Cells">
+					<ViewCell>
+						<ViewCell.View>
+                            <StackLayout Padding="15,0,15,0" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                            	<Label Text="Birthday" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+                            	<Image Source="DatePicker.png"/>
+                            	<DatePicker BackgroundColor="#C3F0FF" Opacity="0.5" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                            </StackLayout>        
+                        </ViewCell.View>
+					</ViewCell>		
+					<ViewCell>
+						<ViewCell.View>
+                            <StackLayout Padding="15,0,15,0" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                                <Label Text="Shift Time" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+                            	<Image Source="TimePicker.png"/>
+                            	<TimePicker BackgroundColor="#C3F0FF" Opacity="0.5" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                            </StackLayout>        
+                        </ViewCell.View>
+					</ViewCell>
+					<ViewCell Height="120">
+						<ViewCell.View>
+                            <StackLayout Padding="15,0,15,0" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                                <Label Text="Note" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+                            	<Editor HeightRequest="80" BackgroundColor="#C3F0FF" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                            </StackLayout>        
+                        </ViewCell.View>
+					</ViewCell>
+				</TableSection>
+				<TableSection Title="Custom View Cell Control">
+					<local:NavigationViewCell Text="View Experience" Command="{Binding NavCommand}" CommandParameter="ExperienceList"/>
+				</TableSection>
+			</TableRoot>
+		</TableView>
+	</ContentPage.Content>
+</ContentPage>

@@ -11,7 +11,10 @@ namespace SamplesPCL
 		{
 			InitializeComponent ();
 			BindingContext = App.Locator.Home;
-
+			//tableViewNav.Clicked += GoToTableViewEx;
+		}
+	    async void GoToTableViewEx(object sender, EventArgs e){
+			await Navigation.PushAsync(new TableViewEx());
 		}
 	}
 }

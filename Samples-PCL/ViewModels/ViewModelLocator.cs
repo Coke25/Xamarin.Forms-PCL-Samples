@@ -12,6 +12,7 @@ namespace SamplesPCL
 		{
 			ServiceLocator.SetLocatorProvider(() => SimpleIoc.Default);
 			SimpleIoc.Default.Register<HomeViewModel>();
+			SimpleIoc.Default.Register<TableViewExViewModel> ();
 		}
 
 		/// <summary>
@@ -25,6 +26,13 @@ namespace SamplesPCL
 			get
 			{
 				return ServiceLocator.Current.GetInstance<HomeViewModel>();
+			}
+		}
+		public TableViewExViewModel TableViewEx
+		{
+			get
+			{
+				return ServiceLocator.Current.GetInstance<TableViewExViewModel>();
 			}
 		}
 	}

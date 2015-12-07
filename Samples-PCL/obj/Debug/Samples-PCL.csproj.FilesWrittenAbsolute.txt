@@ -11,3 +11,5 @@
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/bin/Debug/Samples-PCL.dll
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/obj/Debug/Samples-PCL.dll
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/obj/Debug/Samples-PCL.dll.mdb
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/obj/Debug/SamplesPCL.Views.TableViewEx.xaml.g.cs
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/obj/Debug/SamplesPCL.Views.TableViewEx.xaml

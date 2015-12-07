@@ -2,9 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
 			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
 			 x:Class="SamplesPCL.HomePage">
-	<ContentPage.Content>
-   <Button Text="{Binding ClickCountFormatted}"
+<ContentPage.Content>
+	<StackLayout Padding="0,50,0,0">
+   		<Button Text="{Binding ClickCountFormatted}"
             Command="{Binding IncrementCommand}"
             VerticalOptions="Center" />
-	</ContentPage.Content>
+        <Button Text="TableView Example" Clicked="GoToTableViewEx"/>
+    </StackLayout>
+</ContentPage.Content>
 </ContentPage>

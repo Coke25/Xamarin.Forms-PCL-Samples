@@ -1,6 +1,6 @@
-# Version: 9.2.1.51 (cycle6-xi: 3c0ec35)
+# Version: 9.2.1.54 (cycle6-xi: eb4c1ef)
 # [first argument, ignore] # /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/9.2.1.51/bin/mtouch \
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.2.1.54/bin/mtouch \
 	--cache \
 	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \

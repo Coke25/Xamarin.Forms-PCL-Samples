@@ -19,3 +19,6 @@
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.dll
 /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.dll.mdb
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/TimePicker.png
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/DatePicker.png
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/Arrow_Right.png
