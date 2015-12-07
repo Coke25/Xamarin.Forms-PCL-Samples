@@ -1,10 +1,10 @@
-# Version: 9.2.1.54 (cycle6-xi: eb4c1ef)
-# [first argument, ignore] # /Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/9.2.1.54/bin/mtouch \
+# Version: 9.2.1.51 (cycle6-xi: 3c0ec35)
+# [first argument, ignore] # /Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.2.1.51/bin/mtouch \
 	--cache \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.iOS.app \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.iOS.app \
 	--executable \
 	Samples-PCL.iOS \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--new-refcount \
 	--abi=i386 \
 	--symbollist \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -29,29 +29,29 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/Xamarin.Insights.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/Xamarin.Insights.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/CommonServiceLocator.1.3/lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/CommonServiceLocator.1.3/lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/bin/Debug/Samples-PCL.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/Samples-PCL/bin/Debug/Samples-PCL.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -147,27 +147,27 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlSerializer.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/Xamarin.Insights.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/Xamarin.Insights.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Insights.1.11.2/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/Xamarin.Forms.2.0.0.6482/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/CommonServiceLocator.1.3/lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/CommonServiceLocator.1.3/lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Extras.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/packages/MvvmLightLibs.5.2.0.0/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll \
 	-r \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/Samples-PCL/bin/Debug/Samples-PCL.dll \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/Samples-PCL/bin/Debug/Samples-PCL.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/bin/iPhoneSimulator/Debug//Samples-PCL.iOS.exe \
+	/Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/bin/iPhoneSimulator/Debug//Samples-PCL.iOS.exe \

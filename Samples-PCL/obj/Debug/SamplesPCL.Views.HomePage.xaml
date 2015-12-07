@@ -8,6 +8,7 @@
             Command="{Binding IncrementCommand}"
             VerticalOptions="Center" />
         <Button Text="TableView Example" Clicked="GoToTableViewEx"/>
+        <Button Text="ListView Example" Clicked="GoToListViewEx"/>
     </StackLayout>
 </ContentPage.Content>
 </ContentPage>
