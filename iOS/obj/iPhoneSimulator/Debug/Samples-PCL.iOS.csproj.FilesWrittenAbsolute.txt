@@ -46,3 +46,7 @@
 /Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
 /Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.dll
 /Users/zihanx/Desktop/Projects/Samples/Xamarin.Forms-PCL-Samples/iOS/bin/iPhoneSimulator/Debug/Samples-PCL.dll.mdb
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/Unchecked_Black.png
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/Checked_Black.png
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/Unchecked_Black@2x.png
+/Users/xuzihan/Desktop/Work/Xamarin/Samples-PCL/iOS/obj/iPhoneSimulator/Debug/optimized/Checked_Black@2x.png

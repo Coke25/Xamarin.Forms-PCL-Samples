@@ -16,9 +16,9 @@ namespace SamplesPCL
 	    async void GoToTableViewEx(object sender, EventArgs e){
 			await Navigation.PushAsync(new TableViewEx());
 		}
-		async void GoToListViewEx(object sender, EventArgs e){
+		/*async void GoToListViewEx(object sender, EventArgs e){
 			await Navigation.PushAsync(new ListViewEx());
-		}
+		}*/
 	}
 }
 

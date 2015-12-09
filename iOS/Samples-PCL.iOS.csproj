@@ -139,5 +139,9 @@
     <BundleResource Include="Resources\TimePicker.png" />
     <BundleResource Include="Resources\DatePicker.png" />
     <BundleResource Include="Resources\Arrow_Right.png" />
+    <BundleResource Include="Resources\Unchecked_Black.png" />
+    <BundleResource Include="Resources\Checked_Black.png" />
+    <BundleResource Include="Resources\Unchecked_Black%402x.png" />
+    <BundleResource Include="Resources\Checked_Black%402x.png" />
   </ItemGroup>
 </Project>
